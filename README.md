@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior software engineer passionate about front end technologies with very good knowledge<br>in JavaScript and React, highly motivated to work and discover more about them and their<br>related fields
+Highly motivated and skilled software engineer with a good foundation in JavaScript and related technologies, including NodeJs, React, Next.js, and various AWS services. Dedicated to delivering high-quality software solutions and passionate about continuously learning and adapting to new technologies. Seeking a challenging position where I can contribute my expertise in full-stack development and collaborate with a dynamic team to build innovative and scalable web applications.
 
 
 ## 🌐 Socials:
